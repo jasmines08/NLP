@@ -24,17 +24,17 @@ This project automates the collection of Billboard Year-End Hot 100 songs, fetch
 - Includes a **2-second delay** between API calls to avoid rate limiting.  
 
 ### `lyrics.py` – Test Lyrics Fetching  
-- Fetches lyrics for a single test song (`Dominic Fike - Frisk`).  
+- Fetches lyrics for a single test song (`Dominic Fike - Frisky`).  
 - Extracts **prechorus & chorus** and prints them.  
 - Used for debugging and validating lyric extraction logic.  
 
-## 📁 Output Files  
+## Output Files  
 | File Name | Description |  
 |-----------|------------|  
 | `top_100_songs_artists_YYYY.txt` | List of top 100 songs & artists for a given year. |  
 | `song_lyrics.csv` | Final dataset containing lyrics data. |  
 
-## 🚀 Future Improvements  
+## Future Improvements  
 - Implement **sentiment analysis** to classify the mood/emotion of lyrics.  
 - Expand data sources beyond Wikipedia and Lyrics.ovh API.  
 - Improve handling of missing or incomplete lyrics.  
