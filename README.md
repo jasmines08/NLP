@@ -1,7 +1,7 @@
 # Lyrics Data Collection & Annotation
 
 ## Overview
-This project collects Billboard Year-End Hot 100 songs, fetches their lyrics, and extracts key sections (prechorus & chorus) for further analysis. The dataset will be used for annotation.
+This project collects Billboard Year-End Hot 100 songs from 2016 to 2024, fetches their lyrics, and extracts key sections (prechorus & chorus) for further analysis. The dataset will be used for annotation.
 
 ---
 
@@ -62,6 +62,7 @@ The dataset is stored in **CSV format** to ensure easy access. The dataset inclu
 - Estimate of time per instance: **26.7 seconds** (varies based on complexity).
 - **Total annotation time:** `26.7 seconds * 897 *1.15 = 7.6506625 hours`.
 - **Duplication for annotator agreement:** `897 * 0.15 = 135 instances` (duplicated for validation).
+- **Sample Annotations:** The first 5 rows in each `data.csv` file are pre-annotated to serve as examples.
 - **Final dataset distribution:**
   - **897 unique instances**.
   - **135 duplicate instances (for inter-annotator agreement calculations).**
