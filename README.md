@@ -88,9 +88,3 @@ The dataset is stored in **CSV format** to ensure easy access. The dataset inclu
 | `song_lyrics.csv` | Raw dataset containing collected lyrics. |
 | `data1.csv` – `data8.csv` | Final split dataset for annotation. |
 
----
-
-## Future Improvements
-- Implement **sentiment analysis** to classify the mood/emotion of lyrics.
-- Expand data sources beyond Wikipedia and Lyrics.ovh API.
-- Improve handling of missing or incomplete lyrics.
