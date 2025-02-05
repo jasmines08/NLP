@@ -5,6 +5,12 @@ This project collects Billboard Year-End Hot 100 songs, fetches their lyrics, an
 
 ---
 
+## How to open .csv file for annotation
+Open your .csv file as an excel file.
+When you open in Excel, select all cells by clicking the left corner (between 1 and A)
+and then click on the home tab and click the format down arrow and click autofit row hieght and autofit row width
+else it might look like lyrics are hidden.
+
 ## Data Collection Process
 ### 1. **Scraping Billboard Year-End Hot 100 Songs**
 - We scrape Billboard's Year-End Hot 100 lists from Wikipedia for multiple years.
@@ -16,6 +22,7 @@ This project collects Billboard Year-End Hot 100 songs, fetches their lyrics, an
 - The script (`dataCollect.py`) reads song titles and artists from `top_100_songs_artists_YYYY.txt`.
 - It queries the **Lyrics.ovh API** (`https://api.lyrics.ovh/v1/`) to fetch lyrics.
 - Extracts **prechorus & chorus** if available.
+- Ideally the 2nd and 3rd paragraphs of a song are the pre-chorus and chorus which should give the most info about a song.
 - Stores structured lyrics data in `song_lyrics.csv` with the following columns:
   - `song_id` – Unique identifier.
   - `artist` – Artist's name.
@@ -27,12 +34,15 @@ This project collects Billboard Year-End Hot 100 songs, fetches their lyrics, an
 ### 3. **Testing Lyrics Extraction**
 - The script (`lyrics.py`) fetches lyrics for a **single test song** to validate extraction logic.
 
+### 4. **Splitting data into 8 files with 15% duplication**
+- The script (`splitCsv.py`) duplicates 15% of the instances from (`song_lyrics.csv`) and then divides it into 8 files for annotation.
+
 ---
 
 ## Dataset Description
 The dataset is stored in **CSV format** to ensure easy access. The dataset includes:
-- **Unique instances:** 816
-- **Total instances:** 960 (including 144 duplicate instances for annotator agreement calculation)
+- **Unique instances:** 897
+- **Total instances:** 1032 (including 135 duplicate instances for annotator agreement calculation)
 - **File format:** CSV (`data1.csv` to `data8.csv`)
 - **Each instance represents:** One song’s prechorus & chorus (or full lyrics if extraction failed)
 
@@ -49,13 +59,12 @@ The dataset is stored in **CSV format** to ensure easy access. The dataset inclu
 
 ## Annotation Guidelines
 - **Each annotator will label instances for 1 hour.**
-- Estimate of time per instance: **30 seconds** (varies based on complexity).
-- **Total annotation time:** `60 * 60 * 8 = 28,800 seconds`.
-- **Estimated instances per 8-hour period:** `28,800 / 30 = 960 instances`.
-- **Duplication for annotator agreement:** `960 * 0.15 = 144 instances` (duplicated for validation).
+- Estimate of time per instance: **26.7 seconds** (varies based on complexity).
+- **Total annotation time:** `26.7 seconds * 897 *1.15 = 7.6506625 hours`.
+- **Duplication for annotator agreement:** `897 * 0.15 = 135 instances` (duplicated for validation).
 - **Final dataset distribution:**
-  - **816 unique instances**.
-  - **144 duplicate instances (for inter-annotator agreement calculations).**
+  - **897 unique instances**.
+  - **135 duplicate instances (for inter-annotator agreement calculations).**
   - **Split into 8 files (`data1.csv` to `data8.csv`).**
   - Duplicate instances are distributed across multiple files to ensure proper agreement analysis.
   - **8th file contains only unique instances** (ensuring no duplicate appears in it).
@@ -66,9 +75,6 @@ The dataset is stored in **CSV format** to ensure easy access. The dataset inclu
 - **Terms of Service Compliance:**
   - Lyrics are retrieved using the **Lyrics.ovh API**, which provides access under fair use conditions.
   - Wikipedia data is openly available for scraping but should be cited appropriately.
-- **Dataset Licensing:**
-  - If publishing, we must check if API content can be redistributed.
-  - Billboard song lists are public information but should be credited properly.
 - **Missing Data Handling:**
   - If lyrics are not found, the entry is **not stored** in the dataset.
   - Some extracted lyrics may not have prechorus/chorus sections, in which case **full lyrics** are used instead.
