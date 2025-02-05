@@ -1,0 +1,100 @@
+Song: "Blinding Lights", Artist: The Weeknd
+Song: "Circles", Artist: Post Malone
+Song: "The Box", Artist: Roddy Ricch
+Song: "Don't Start Now", Artist: Dua Lipa
+Song: "Rockstar", Artist: DaBaby
+Song: "Adore You", Artist: Harry Styles
+Song: "Life Is Good", Artist: Future
+Song: "Memories", Artist: Maroon 5
+Song: "The Bones", Artist: Maren Morris
+Song: "Someone You Loved", Artist: Lewis Capaldi
+Song: "Say So", Artist: Doja Cat
+Song: "I Hope", Artist: Gabby Barrett
+Song: "Whats Poppin", Artist: Jack Harlow
+Song: "Dance Monkey", Artist: Tones
+Song: "Savage", Artist: Megan Thee Stallion
+Song: "Roxanne", Artist: Arizona Zervas
+Song: "Intentions", Artist: Justin Bieber
+Song: "Everything I Wanted", Artist: Billie Eilish
+Song: "Roses (Imanbek remix)", Artist: Saint Jhn
+Song: "Watermelon Sugar", Artist: Harry Styles
+Song: "Before You Go", Artist: Lewis Capaldi
+Song: "Falling", Artist: Trevor Daniel
+Song: "10,000 Hours", Artist: Dan + Shay
+Song: "WAP", Artist: Cardi B
+Song: "Ballin'", Artist: Mustard
+Song: "Hot Girl Bummer", Artist: Blackbear
+Song: "Blueberry Faygo", Artist: Lil Mosey
+Song: "Heartless", Artist: The Weeknd
+Song: "Bop", Artist: DaBaby
+Song: "Lose You to Love Me", Artist: Selena Gomez
+Song: "Good as Hell", Artist: Lizzo
+Song: "Toosie Slide", Artist: Drake
+Song: "Break My Heart", Artist: Dua Lipa
+Song: "Chasin' You", Artist: Morgan Wallen
+Song: "Savage Love (Laxed – Siren Beat)", Artist: Jawsh 685
+Song: "No Guidance", Artist: Chris Brown
+Song: "My Oh My", Artist: Camila Cabello
+Song: "Dynamite", Artist: BTS
+Song: "Go Crazy", Artist: Chris Brown
+Song: "High Fashion", Artist: Roddy Ricch
+Song: "Laugh Now Cry Later", Artist: Drake
+Song: "Woah", Artist: Lil Baby
+Song: "Death Bed", Artist: Powfu
+Song: "Señorita", Artist: Shawn Mendes
+Song: "Highest in the Room", Artist: Travis Scott
+Song: "Bad Guy", Artist: Billie Eilish
+Song: "Mood", Artist: 24kGoldn
+Song: "Rain on Me", Artist: Lady Gaga
+Song: "For the Night", Artist: Pop Smoke
+Song: "Ritmo (Bad Boys for Life)", Artist: Black Eyed Peas
+Song: "Heart on Ice", Artist: Rod Wave
+Song: "Nobody but You", Artist: Blake Shelton
+Song: "Trampoline", Artist: Shaed
+Song: "Come & Go", Artist: Juice Wrld
+Song: "Truth Hurts", Artist: Lizzo
+Song: "If the World Was Ending", Artist: JP Saxe
+Song: "We Paid", Artist: Lil Baby
+Song: "Yummy", Artist: Justin Bieber
+Song: "One Man Band", Artist: Old Dominion
+Song: "Got What I Got", Artist: Jason Aldean
+Song: "Sunday Best", Artist: Surfaces
+Song: "Godzilla", Artist: Eminem
+Song: "Bandit", Artist: Juice Wrld
+Song: "Party Girl", Artist: StaySolidRocky
+Song: "Die from a Broken Heart", Artist: Maddie & Tae
+Song: "Popstar", Artist: DJ Khaled
+Song: "All I Want for Christmas Is You", Artist: Mariah Carey
+Song: "One of Them Girls", Artist: Lee Brice
+Song: "Hard to Forget", Artist: Sam Hunt
+Song: "One Margarita", Artist: Luke Bryan
+Song: "Panini", Artist: Lil Nas X
+Song: "Hot", Artist: Young Thug
+Song: "I Hope You're Happy Now", Artist: Carly Pearce
+Song: "Emotionally Scarred", Artist: Lil Baby
+Song: "Suicidal", Artist: YNW Melly
+Song: "The Bigger Picture", Artist: Lil Baby
+Song: "Only Human", Artist: Jonas Brothers
+Song: "The Woo", Artist: Pop Smoke
+Song: "Sum 2 Prove", Artist: Lil Baby
+Song: "Stuck with U", Artist: Ariana Gr
+Song: "Mood Swings", Artist: Pop Smoke
+Song: "You Should Be Sad", Artist: Halsey
+Song: "Dior", Artist: Pop Smoke
+Song: "Supalonely", Artist: Benee
+Song: "Even Though I'm Leaving", Artist: Luke Combs
+Song: "The Scotts", Artist: The Scotts (Travis Scott
+Song: "Juicy", Artist: Doja Cat
+Song: "Be Like That", Artist: Kane Brown,Swae Lee
+Song: "Homesick", Artist: Kane Brown
+Song: "Rags2Riches", Artist: Rod Wave
+Song: "Bluebird", Artist: Mir
+Song: "Wishing Well", Artist: Juice Wrld
+Song: "Does to Me", Artist: Luke Combs
+Song: "Pussy Fairy (OTW)", Artist: Jhené Aiko
+Song: "ILY (I Love You Baby)", Artist: Surf Mesa
+Song: "More Than My Hometown", Artist: Morgan Wallen
+Song: "Lovin' on You", Artist: Luke Combs
+Song: "Said Sum", Artist: Moneybagg Yo
+Song: "Slide", Artist: H.E.R.
+Song: "Walk Em Down", Artist: NLE Choppa

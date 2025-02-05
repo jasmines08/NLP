@@ -1,0 +1,98 @@
+Song: "Love Yourself", Artist: Justin Bieber
+Song: "One Dance", Artist: Drake
+Song: "Work", Artist: Rihanna
+Song: "Stressed Out", Artist: Twenty One Pilots
+Song: "Panda", Artist: Desiigner
+Song: "Hello", Artist: Adele
+Song: "Don't Let Me Down", Artist: The Chainsmokers
+Song: "Can't Stop the Feeling!", Artist: Justin Timberlake
+Song: "Closer", Artist: The Chainsmokers
+Song: "Cheap Thrills", Artist: Sia
+Song: "7 Years", Artist: Lukas Graham
+Song: "Needed Me", Artist: Rihanna
+Song: "My House", Artist: Flo Rida
+Song: "I Took a Pill in Ibiza", Artist: Mike Posner
+Song: "Work from Home", Artist: Fifth Harmony
+Song: "This Is What You Came For", Artist: Calvin Harris
+Song: "Cake by the Ocean", Artist: DNCE
+Song: "Me, Myself & I", Artist: G-Eazy
+Song: "Ride", Artist: Twenty One Pilots
+Song: "Pillowtalk", Artist: Zayn
+Song: "Stitches", Artist: Shawn Mendes
+Song: "Hotline Bling", Artist: Drake
+Song: "Cold Water", Artist: Major Lazer
+Song: "Send My Love (To Your New Lover)", Artist: Adele
+Song: "Roses", Artist: The Chainsmokers
+Song: "Treat You Better", Artist: Shawn Mendes
+Song: "Too Good", Artist: Drake
+Song: "Low Life", Artist: Future
+Song: "What Do You Mean?", Artist: Justin Bieber
+Song: "The Hills", Artist: The Weeknd
+Song: "Just Like Fire", Artist: P!nk
+Song: "Broccoli", Artist: DRAM
+Song: "Don't", Artist: Bryson Tiller
+Song: "Dangerous Woman", Artist: Ariana Gr
+Song: "Jumpman", Artist: Drake
+Song: "I Hate U, I Love U", Artist: Gnash
+Song: "Here", Artist: Alessia Cara
+Song: "Same Old Love", Artist: Selena Gomez
+Song: "Controlla", Artist: Drake
+Song: "Like I'm Gonna Lose You", Artist: Meghan Trainor
+Song: "One Call Away", Artist: Charlie Puth
+Song: "Let It Go", Artist: James Bay
+Song: "No", Artist: Meghan Trainor
+Song: "Never Forget You", Artist: Zara Larsson
+Song: "Let Me Love You", Artist: DJ Snake
+Song: "Don't Mind", Artist: Kent Jones
+Song: "H.O.L.Y.", Artist: Florida Georgia Line
+Song: "We Don't Talk Anymore", Artist: Charlie Puth
+Song: "Into You", Artist: Ariana Gr
+Song: "Gold", Artist: Kiiara
+Song: "Exchange", Artist: Bryson Tiller
+Song: "679", Artist: Fetty Wap
+Song: "Oui", Artist: Jeremih
+Song: "Hands to Myself", Artist: Selena Gomez
+Song: "2 Phones", Artist: Kevin Gates
+Song: "Starboy", Artist: The Weeknd
+Song: "For Free", Artist: DJ Khaled
+Song: "Never Be Like You", Artist: Flume
+Song: "In the Night", Artist: The Weeknd
+Song: "Me Too", Artist: Meghan Trainor
+Song: "Ex's & Oh's", Artist: Elle King
+Song: "Die a Happy Man", Artist: Thomas Rhett
+Song: "White Iverson", Artist: Post Malone
+Song: "Close", Artist: Nick Jonas
+Song: "Unsteady", Artist: X Ambassadors
+Song: "Sucker for Pain", Artist: Lil Wayne,Wiz Khalifa
+Song: "Down in the DM", Artist: Yo Gotti
+Song: "Luv", Artist: Tory Lanez
+Song: "Sorry", Artist: Beyoncé
+Song: "Can't Feel My Face", Artist: The Weeknd
+Song: "Hymn for the Weekend", Artist: Coldplay
+Song: "Say It", Artist: Tory Lanez
+Song: "Antidote", Artist: Travis Scott
+Song: "Lost Boy", Artist: Ruth B
+Song: "Side to Side", Artist: Ariana Gr
+Song: "Sit Still, Look Pretty", Artist: Daya
+Song: "Wildest Dreams", Artist: Taylor Swift
+Song: "Middle", Artist: DJ Snake
+Song: "On My Mind", Artist: Ellie Goulding
+Song: "Pop Style", Artist: Drake
+Song: "When We Were Young", Artist: Adele
+Song: "Hide Away", Artist: Daya
+Song: "Lean On", Artist: Major Lazer
+Song: "I Know What You Did Last Summer", Artist: Shawn Mendes
+Song: "All the Way Up", Artist: Fat Joe
+Song: "Watch Me", Artist: Silentó
+Song: "Back to Sleep", Artist: Chris Brown
+Song: "No Limit", Artist: Usher
+Song: "Cut It", Artist: O.T. Genasis
+Song: "Really Really", Artist: Kevin Gates
+Song: "All In My Head (Flex)", Artist: Fifth Harmony
+Song: "Starving", Artist: Hailee Steinfeld
+Song: "Adventure of a Lifetime", Artist: Coldplay
+Song: "Humble and Kind", Artist: Tim McGraw
+Song: "Wicked", Artist: Future
+Song: "Tiimmy Turner", Artist: Desiigner
+Song: "See You Again", Artist: Wiz Khalifa
+Song: "Perfect", Artist: One Direction

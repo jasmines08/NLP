@@ -1,0 +1,100 @@
+Song: "Shape of You", Artist: Ed Sheeran
+Song: "Despacito (Remix)", Artist: Luis Fonsi
+Song: "That's What I Like", Artist: Bruno Mars
+Song: "Humble", Artist: Kendrick Lamar
+Song: "Something Just Like This", Artist: The Chainsmokers
+Song: "Bad and Boujee", Artist: Migos
+Song: "Closer", Artist: The Chainsmokers
+Song: "Body Like a Back Road", Artist: Sam Hunt
+Song: "Believer", Artist: Imagine Dragons
+Song: "Congratulations", Artist: Post Malone
+Song: "Say You Won't Let Go", Artist: James Arthur
+Song: "I'm the One", Artist: DJ Khaled
+Song: "XO Tour Llif3", Artist: Lil Uzi Vert
+Song: "Mask Off", Artist: Future
+Song: "Unforgettable", Artist: French Montana
+Song: "24K Magic", Artist: Bruno Mars
+Song: "Stay", Artist: Zedd
+Song: "Wild Thoughts", Artist: DJ Khaled
+Song: "Black Beatles", Artist: Rae Sremmurd
+Song: "Starboy", Artist: The Weeknd
+Song: "Location", Artist: Khalid
+Song: "Attention", Artist: Charlie Puth
+Song: "There's Nothing Holdin' Me Back", Artist: Shawn Mendes
+Song: "Bodak Yellow", Artist: Cardi B
+Song: "Redbone", Artist: Childish Gambino
+Song: "I Don't Wanna Live Forever", Artist: Zayn
+Song: "It Ain't Me", Artist: Kygo
+Song: "iSpy", Artist: Kyle
+Song: "Issues", Artist: Julia Michaels
+Song: "Scars to Your Beautiful", Artist: Alessia Cara
+Song: "1-800-273-8255", Artist: Logic
+Song: "Slow Hands", Artist: Niall Horan
+Song: "Love on the Brain", Artist: Rihanna
+Song: "I Feel It Coming", Artist: The Weeknd
+Song: "Bounce Back", Artist: Big Sean
+Song: "Strip That Down", Artist: Liam Payne
+Song: "Fake Love", Artist: Drake
+Song: "Don't Wanna Know", Artist: Maroon 5
+Song: "Look What You Made Me Do", Artist: Taylor Swift
+Song: "Castle on the Hill", Artist: Ed Sheeran
+Song: "Bad Things", Artist: Machine Gun Kelly
+Song: "Paris", Artist: The Chainsmokers
+Song: "Side to Side", Artist: Ariana Gr
+Song: "Rockabye", Artist: Clean B
+Song: "Feel It Still", Artist: Portugal. The Man
+Song: "Let Me Love You", Artist: DJ Snake
+Song: "Sorry Not Sorry", Artist: Demi Lovato
+Song: "Bank Account", Artist: 21 Savage
+Song: "Can't Stop the Feeling!", Artist: Justin Timberlake
+Song: "Mi Gente", Artist: J Balvin
+Song: "Thunder", Artist: Imagine Dragons
+Song: "T-shirt", Artist: Migos
+Song: "Rake It Up", Artist: Yo Gotti
+Song: "Mercy", Artist: Shawn Mendes
+Song: "Tunnel Vision", Artist: Kodak Black
+Song: "Rockstar", Artist: Post Malone
+Song: "In Case You Didn't Know", Artist: Brett Young
+Song: "Heathens", Artist: Twenty One Pilots
+Song: "Now or Never", Artist: Halsey
+Song: "Caroline", Artist: Aminé
+Song: "Rolex", Artist: Ayo & Teo
+Song: "DNA", Artist: Kendrick Lamar
+Song: "Juju on That Beat (TZ Anthem)", Artist: Zay Hilfigerrr & Zayion McCall
+Song: "Swang", Artist: Rae Sremmurd
+Song: "Passionfruit", Artist: Drake
+Song: "Loyalty", Artist: Kendrick Lamar
+Song: "Praying", Artist: Kesha
+Song: "Goosebumps", Artist: Travis Scott
+Song: "Cold", Artist: Maroon 5
+Song: "Broccoli", Artist: DRAM
+Song: "Slide", Artist: Calvin Harris
+Song: "What Ifs", Artist: Kane Brown
+Song: "Chained to the Rhythm", Artist: Katy Perry
+Song: "Feels", Artist: Calvin Harris
+Song: "All Time Low", Artist: Jon Bellion
+Song: "Hurricane", Artist: Luke Combs
+Song: "Too Good at Goodbyes", Artist: Sam Smith
+Song: "Young Dumb & Broke", Artist: Khalid
+Song: "Magnolia", Artist: Playboi Carti
+Song: "Love Galore", Artist: SZA
+Song: "Drowning", Artist: A Boogie wit da Hoodie
+Song: "Starving", Artist: Hailee Steinfeld
+Song: "Both", Artist: Gucci Mane
+Song: "What About Us", Artist: P!nk
+Song: "Swalla", Artist: Jason Derulo
+Song: "Slippery", Artist: Migos
+Song: "Sign of the Times", Artist: Harry Styles
+Song: "Water Under the Bridge", Artist: Adele
+Song: "Malibu", Artist: Miley Cyrus
+Song: "Down", Artist: Marian Hill
+Song: "No Promises", Artist: Cheat Codes
+Song: "Treat You Better", Artist: Shawn Mendes
+Song: "I Get the Bag", Artist: Gucci Mane
+Song: "Small Town Boy", Artist: Dustin Lynch
+Song: "Everyday We Lit", Artist: YFN Lucci
+Song: "Havana", Artist: Camila Cabello
+Song: "What Lovers Do", Artist: Maroon 5
+Song: "Do Re Mi", Artist: Blackbear
+Song: "Look at Me!", Artist: XXXTentacion
+Song: "The Fighter", Artist: Keith Urban

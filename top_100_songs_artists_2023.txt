@@ -1,0 +1,100 @@
+Song: "Last Night", Artist: Morgan Wallen
+Song: "Flowers", Artist: Miley Cyrus
+Song: "Kill Bill", Artist: SZA
+Song: "Anti-Hero", Artist: Taylor Swift
+Song: "Creepin'", Artist: Metro Boomin,the Weeknd
+Song: "Calm Down", Artist: Rema
+Song: "Die for You", Artist: The Weeknd
+Song: "Fast Car", Artist: Luke Combs
+Song: "Snooze", Artist: SZA
+Song: "I'm Good (Blue)", Artist: David Guetta
+Song: "Unholy", Artist: Sam Smith
+Song: "You Proof", Artist: Morgan Wallen
+Song: "Something in the Orange", Artist: Zach Bryan
+Song: "Rich Flex", Artist: Drake
+Song: "As It Was", Artist: Harry Styles
+Song: "Rock and a Hard Place", Artist: Bailey Zimmerman
+Song: "Under the Influence", Artist: Chris Brown
+Song: "Cruel Summer", Artist: Taylor Swift
+Song: "Thinkin' Bout Me", Artist: Morgan Wallen
+Song: "Boy's a Liar Pt. 2", Artist: PinkPantheress
+Song: "Favorite Song", Artist: Toosii
+Song: "Thought You Should Know", Artist: Morgan Wallen
+Song: "Thank God", Artist: Kane Brown
+Song: "Sure Thing", Artist: Miguel
+Song: "All My Life", Artist: Lil Durk
+Song: "Ella Baila Sola", Artist: Eslabon Armado
+Song: "Karma", Artist: Taylor Swift
+Song: "Just Wanna Rock", Artist: Lil Uzi Vert
+Song: "Cuff It", Artist: Beyoncé
+Song: "Vampire", Artist: Olivia Rodrigo
+Song: "FukUMean", Artist: Gunna
+Song: "Lavender Haze", Artist: Taylor Swift
+Song: "Players", Artist: Coi Leray
+Song: "Need a Favor", Artist: Jelly Roll
+Song: "Dance the Night", Artist: Dua Lipa
+Song: "Love You Anyway", Artist: Luke Combs
+Song: "One Thing at a Time", Artist: Morgan Wallen
+Song: "Superhero (Heroes & Villains)", Artist: Metro Boomin,Future
+Song: "Bad Habit", Artist: Steve Lacy
+Song: "La Bebé", Artist: Yng Lvcas
+Song: "Golden Hour", Artist: Jvke
+Song: "Religiously", Artist: Bailey Zimmerman
+Song: "Spin Bout U", Artist: Drake
+Song: "Cupid", Artist: Fifty Fifty
+Song: "Search & Rescue", Artist: Drake
+Song: "Barbie World", Artist: Nicki Minaj
+Song: "Next Thing You Know", Artist: Jordan Davis
+Song: "Escapism", Artist: Raye
+Song: "Un x100to", Artist: Grupo Frontera
+Song: "Until I Found You", Artist: Stephen Sanchez
+Song: "Shirt", Artist: SZA
+Song: "Paint the Town Red", Artist: Doja Cat
+Song: "Made You Look", Artist: Meghan Trainor
+Song: "Wait in the Truck", Artist: Hardy
+Song: "All I Want for Christmas Is You", Artist: Mariah Carey
+Song: "Everything I Love", Artist: Morgan Wallen
+Song: "Chemical", Artist: Post Malone
+Song: "Heart Like a Truck", Artist: Lainey Wilson
+Song: "Going, Going, Gone", Artist: Luke Combs
+Song: "Rockin' Around the Christmas Tree", Artist: Brenda Lee
+Song: "Dancin' in the Country", Artist: Tyler Hubbard
+Song: "Daylight", Artist: David Kushner
+Song: "Lift Me Up", Artist: Rihanna
+Song: "Eyes Closed", Artist: Ed Sheeran
+Song: "TQG", Artist: Karol G
+Song: "Try That in a Small Town", Artist: Jason Aldean
+Song: "Tennessee Orange", Artist: Megan Moroney
+Song: "Jingle Bell Rock", Artist: Bobby Helms
+Song: "Princess Diana", Artist: Ice Spice
+Song: "Tomorrow 2", Artist: GloRilla
+Song: "A Holly Jolly Christmas", Artist: Burl Ives
+Song: "Where She Goes", Artist: Bad Bunny
+Song: "Bebe Dame", Artist: Fuerza Regida
+Song: "I Remember Everything", Artist: Zach Bryan
+Song: "I Like You (A Happier Song)", Artist: Post Malone
+Song: "What It Is (Block Boy)", Artist: Doechii
+Song: "Nobody Gets Me", Artist: SZA
+Song: "Rich Men North of Richmond", Artist: Oliver Anthony Music
+Song: "Super Freaky Girl", Artist: Nicki Minaj
+Song: "Dial Drunk", Artist: Noah Kahan
+Song: "What Was I Made For?", Artist: Billie Eilish
+Song: "Seven", Artist: Jungkook
+Song: "Wait for U", Artist: Future
+Song: "Last Christmas", Artist: Wham!
+Song: "Handle on You", Artist: Parker McCollum
+Song: "Por Las Noches", Artist: Peso Pluma
+Song: "Memory Lane", Artist: Old Dominion
+Song: "Area Codes", Artist: Kaliii
+Song: "Bury Me in Georgia", Artist: Kane Brown
+Song: "PRC", Artist: Peso Pluma
+Song: "What My World Spins Around", Artist: Jordan Davis
+Song: "Ain't That Some", Artist: Morgan Wallen
+Song: "Wild as Her", Artist: Corey Kent
+Song: "Peaches & Eggplants", Artist: Young Nudy
+Song: "I Wrote the Book", Artist: Morgan Wallen
+Song: "Bzrp Music Sessions, Vol. 53", Artist: Bizarrap
+Song: "Meltdown", Artist: Travis Scott
+Song: "Put It on da Floor Again", Artist: Latto
+Song: "Bloody Mary", Artist: Lady Gaga
+Song: "Watermelon Moonshine", Artist: Lainey Wilson

@@ -1,0 +1,100 @@
+Song: "Old Town Road", Artist: Lil Nas X
+Song: "Sunflower", Artist: Post Malone
+Song: "Without Me", Artist: Halsey
+Song: "Bad Guy", Artist: Billie Eilish
+Song: "Wow", Artist: Post Malone
+Song: "Happier", Artist: Marshmello
+Song: "7 Rings", Artist: Ariana Gr
+Song: "Talk", Artist: Khalid
+Song: "Sicko Mode", Artist: Travis Scott
+Song: "Sucker", Artist: Jonas Brothers
+Song: "High Hopes", Artist: Panic! at the Disco
+Song: "Thank U, Next", Artist: Ariana Gr
+Song: "Truth Hurts", Artist: Lizzo
+Song: "Dancing with a Stranger", Artist: Sam Smith
+Song: "Señorita", Artist: Shawn Mendes
+Song: "I Don't Care", Artist: Ed Sheeran
+Song: "Eastside", Artist: Benny Blanco,Halsey
+Song: "Going Bad", Artist: Meek Mill
+Song: "Shallow", Artist: Lady Gaga
+Song: "Better", Artist: Khalid
+Song: "No Guidance", Artist: Chris Brown
+Song: "Girls Like You", Artist: Maroon 5
+Song: "Sweet but Psycho", Artist: Ava Max
+Song: "Suge", Artist: DaBaby
+Song: "Middle Child", Artist: J. Cole
+Song: "Drip Too Hard", Artist: Lil Baby
+Song: "Someone You Loved", Artist: Lewis Capaldi
+Song: "Ransom", Artist: Lil Tecca
+Song: "If I Can't Have You", Artist: Shawn Mendes
+Song: "Goodbyes", Artist: Post Malone
+Song: "Zeze", Artist: Kodak Black
+Song: "Better Now", Artist: Post Malone
+Song: "Youngblood", Artist: 5 Seconds of Summer
+Song: "Money in the Grave", Artist: Drake
+Song: "Speechless", Artist: Dan + Shay
+Song: "Break Up with Your Girlfriend, I'm Bored", Artist: Ariana Gr
+Song: "Please Me", Artist: Cardi B
+Song: "Money", Artist: Cardi B
+Song: "You Need to Calm Down", Artist: Taylor Swift
+Song: "Panini", Artist: Lil Nas X
+Song: "Look Back at It", Artist: A Boogie wit da Hoodie
+Song: "A Lot", Artist: 21 Savage
+Song: "Me!", Artist: Taylor Swift
+Song: "Mia", Artist: Bad Bunny
+Song: "Pop Out", Artist: Polo G
+Song: "Beautiful Crazy", Artist: Luke Combs
+Song: "Thotiana", Artist: Blueface
+Song: "Lucid Dreams", Artist: Juice Wrld
+Song: "Mo Bamba", Artist: Sheck Wes
+Song: "Beautiful People", Artist: Ed Sheeran
+Song: "Wake Up in the Sky", Artist: Gucci Mane,Bruno Mars
+Song: "Whiskey Glasses", Artist: Morgan Wallen
+Song: "God's Country", Artist: Blake Shelton
+Song: "Be Alright", Artist: Dean Lewis
+Song: "Pure Water", Artist: Mustard
+Song: "The Git Up", Artist: Blanco Brown
+Song: "Taki Taki", Artist: DJ Snake
+Song: "Close to Me", Artist: Ellie Goulding
+Song: "Envy Me", Artist: Calboy
+Song: "You Say", Artist: Lauren Daigle
+Song: "Hey Look Ma, I Made It", Artist: Panic! at the Disco
+Song: "Circles", Artist: Post Malone
+Song: "Beer Never Broke My Heart", Artist: Luke Combs
+Song: "The London", Artist: Young Thug,J. Cole
+Song: "Con Calma", Artist: Daddy Yankee
+Song: "Murder on My Mind", Artist: YNW Melly
+Song: "When the Party's Over", Artist: Billie Eilish
+Song: "Act Up", Artist: City Girls
+Song: "I Like It", Artist: Cardi B,Bad Bunny
+Song: "Trampoline", Artist: Shaed
+Song: "Leave Me Alone", Artist: Flipp Dinero
+Song: "Breathin", Artist: Ariana Gr
+Song: "Bury a Friend", Artist: Billie Eilish
+Song: "Close Friends", Artist: Lil Baby
+Song: "Baby Shark", Artist: Pinkfong
+Song: "My Type", Artist: Saweetie
+Song: "Worth It", Artist: YK Osiris
+Song: "Only Human", Artist: Jonas Brothers
+Song: "Knockin' Boots", Artist: Luke Bryan
+Song: "Trip", Artist: Ella Mai
+Song: "Rumor", Artist: Lee Brice
+Song: "Swervin", Artist: A Boogie wit da Hoodie
+Song: "How Do You Sleep?", Artist: Sam Smith
+Song: "Baby", Artist: Lil Baby
+Song: "Look What God Gave Her", Artist: Thomas Rhett
+Song: "Good as You", Artist: Kane Brown
+Song: "Clout", Artist: Offset
+Song: "Love Lies", Artist: Khalid
+Song: "One Thing Right", Artist: Marshmello
+Song: "Cash Shit", Artist: Megan Thee Stallion
+Song: "Tequila", Artist: Dan + Shay
+Song: "Shotta Flow", Artist: NLE Choppa
+Song: "Hot Girl Summer", Artist: Megan Thee Stallion
+Song: "Talk You Out of It", Artist: Florida Georgia Line
+Song: "Beautiful", Artist: Bazzi
+Song: "Eyes on You", Artist: Chase Rice
+Song: "All to Myself", Artist: Dan + Shay
+Song: "Boyfriend", Artist: Ariana Gr
+Song: "Walk Me Home", Artist: Pink
+Song: "Robbery", Artist: Juice Wrld

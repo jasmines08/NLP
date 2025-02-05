@@ -1,0 +1,100 @@
+Song: "God's Plan", Artist: Drake
+Song: "Perfect", Artist: Ed Sheeran
+Song: "Meant to Be", Artist: Bebe Rexha
+Song: "Havana", Artist: Camila Cabello
+Song: "Rockstar", Artist: Post Malone
+Song: "Psycho", Artist: Post Malone
+Song: "I Like It", Artist: Cardi B,Bad Bunny
+Song: "The Middle", Artist: Zedd,Maren Morris
+Song: "In My Feelings", Artist: Drake
+Song: "Girls Like You", Artist: Maroon 5
+Song: "Nice for What", Artist: Drake
+Song: "Lucid Dreams", Artist: Juice Wrld
+Song: "Better Now", Artist: Post Malone
+Song: "Finesse", Artist: Bruno Mars
+Song: "Boo'd Up", Artist: Ella Mai
+Song: "New Rules", Artist: Dua Lipa
+Song: "Sad!", Artist: XXXTentacion
+Song: "Never Be the Same", Artist: Camila Cabello
+Song: "Love Lies", Artist: Khalid
+Song: "No Tears Left to Cry", Artist: Ariana Gr
+Song: "Mine", Artist: Bazzi
+Song: "Thunder", Artist: Imagine Dragons
+Song: "Look Alive", Artist: BlocBoy JB
+Song: "Delicate", Artist: Taylor Swift
+Song: "Yes Indeed", Artist: Lil Baby
+Song: "Friends", Artist: Marshmello
+Song: "Bad at Love", Artist: Halsey
+Song: "Taste", Artist: Tyga
+Song: "Let You Down", Artist: NF
+Song: "No Limit", Artist: G-Eazy
+Song: "Fefe", Artist: 6ix9ine
+Song: "Tequila", Artist: Dan + Shay
+Song: "Feel It Still", Artist: Portugal. The Man
+Song: "MotorSport", Artist: Migos,Nicki Minaj
+Song: "I Like Me Better", Artist: Lauv
+Song: "Youngblood", Artist: 5 Seconds of Summer
+Song: "Whatever It Takes", Artist: Imagine Dragons
+Song: "Ric Flair Drip", Artist: Offset
+Song: "I Fall Apart", Artist: Post Malone
+Song: "Pray for Me", Artist: The Weeknd
+Song: "Back to You", Artist: Selena Gomez
+Song: "Sicko Mode", Artist: Travis Scott
+Song: "Walk It Talk It", Artist: Migos
+Song: "Gucci Gang", Artist: Lil Pump
+Song: "Him & I", Artist: G-Eazy
+Song: "In My Blood", Artist: Shawn Mendes
+Song: "All the Stars", Artist: Kendrick Lamar
+Song: "Stir Fry", Artist: Migos
+Song: "Too Good at Goodbyes", Artist: Sam Smith
+Song: "Love", Artist: Kendrick Lamar
+Song: "This Is America", Artist: Childish Gambino
+Song: "Nonstop", Artist: Drake
+Song: "Heaven", Artist: Kane Brown
+Song: "Bodak Yellow", Artist: Cardi B
+Song: "Freaky Friday", Artist: Lil Dicky
+Song: "Gummo", Artist: 6ix9ine
+Song: "Plug Walk", Artist: Rich the Kid
+Song: "Wait", Artist: Maroon 5
+Song: "Be Careful", Artist: Cardi B
+Song: "Wolves", Artist: Selena Gomez
+Song: "Bartier Cardi", Artist: Cardi B
+Song: "God Is a Woman", Artist: Ariana Gr
+Song: "Big Bank", Artist: YG
+Song: "Sorry Not Sorry", Artist: Demi Lovato
+Song: "How Long", Artist: Charlie Puth
+Song: "Lights Down Low", Artist: Max
+Song: "Young Dumb & Broke", Artist: Khalid
+Song: "One Kiss", Artist: Calvin Harris
+Song: "Natural", Artist: Imagine Dragons
+Song: "You Make It Easy", Artist: Jason Aldean
+Song: "Shape of You", Artist: Ed Sheeran
+Song: "I Get the Bag", Artist: Gucci Mane
+Song: "No Brainer", Artist: DJ Khaled
+Song: "Plain Jane", Artist: ASAP Ferg
+Song: "Sky Walker", Artist: Miguel
+Song: "Marry Me", Artist: Thomas Rhett
+Song: "Eastside", Artist: Benny Blanco,Halsey
+Song: "Call Out My Name", Artist: The Weeknd
+Song: "King's Dead", Artist: Jay Rock,Kendrick Lamar,Future
+Song: "Happier", Artist: Marshmello
+Song: "Te Boté", Artist: Nio García,Darell
+Song: "Simple", Artist: Florida Georgia Line
+Song: "Lemon", Artist: N.E.R.D
+Song: "1-800-273-8255", Artist: Logic
+Song: "Say Something", Artist: Justin Timberlake
+Song: "I'm Upset", Artist: Drake
+Song: "Get Along", Artist: Kenny Chesney
+Song: "Moonlight", Artist: XXXTentacion
+Song: "What Lovers Do", Artist: Maroon 5
+Song: "X", Artist: Nicky Jam
+Song: "Outside Today", Artist: YoungBoy Never Broke Again
+Song: "Trip", Artist: Ella Mai
+Song: "Dura", Artist: Daddy Yankee
+Song: "Changes", Artist: XXXTentacion
+Song: "Mercy", Artist: Brett Young
+Song: "One Number Away", Artist: Luke Combs
+Song: "Powerglide", Artist: Rae Sremmurd
+Song: "IDGAF", Artist: Dua Lipa
+Song: "Mi Gente", Artist: J Balvin
+Song: "Believer", Artist: Imagine Dragons
