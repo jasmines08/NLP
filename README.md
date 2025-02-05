@@ -8,7 +8,7 @@ This project collects Billboard Year-End Hot 100 songs from 2016 to 2024, fetche
 ## How to open .csv file for annotation
 Open your .csv file as an excel file.
 When you open in Excel, select all cells by clicking the left corner (between 1 and A)
-and then click on the home tab and click the format down arrow and click autofit row hieght and autofit row width
+and then click on the home tab and click the format down arrow and click autofit row height and autofit row width
 else it might look like lyrics are hidden.
 
 ## Data Collection Process
@@ -89,3 +89,7 @@ The dataset is stored in **CSV format** to ensure easy access. The dataset inclu
 | `song_lyrics.csv` | Raw dataset containing collected lyrics. |
 | `data1.csv` – `data8.csv` | Final split dataset for annotation. |
 
+---
+
+## Disclaimer
+Please note that the lyrics collected for this project may contain explicit language, themes, or content that some users may find offensive. Annotators should be aware of this and proceed with caution.
