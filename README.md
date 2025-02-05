@@ -93,3 +93,8 @@ The dataset is stored in **CSV format** to ensure easy access. The dataset inclu
 
 ## Disclaimer
 Please note that the lyrics collected for this project may contain explicit language, themes, or content that some users may find offensive. Annotators should be aware of this and proceed with caution.
+
+## Repository
+You can find the whole code at: [https://github.com/jasmines08/NLP](https://github.com/jasmines08/NLP)
+
+---
