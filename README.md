@@ -1,9 +1,9 @@
-# 🎵 Lyrics Data Collection
+# Lyrics Data Collection
 
-## 📌 Overview  
+## Overview  
 This project automates the collection of Billboard Year-End Hot 100 songs, fetches their lyrics, extracts key sections (prechorus & chorus), and structures the data into a CSV file for further analysis.  
 
-## 📂 Project Structure  
+## Project Structure  
 
 ### `songs.py` – Scrape Billboard Year-End Hot 100 Songs  
 - Scrapes Billboard's **Year-End Hot 100** Wikipedia pages.  
